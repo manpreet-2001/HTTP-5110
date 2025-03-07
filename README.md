@@ -16,18 +16,18 @@ Here's a quick code sample demonstrating how to use the main feature of the proj
 <!DOCTYPE HTML>
 <html lang=”en”>
 <head>
-	<title>Nitish Sharma Web site</title>
+	<title>Manpreet Web site</title>
 	<link href="styles/styles.css" rel="stylesheet" type="text/css" />
 
 </head>
 <body>
-	<div class="box"><span class="logo">Nitish Sharma</span></div> 
+	<div class="box"><span class="logo">Manpreet</span></div> 
 	<div class="nav">
     	<ul id="navlist"> 
 <li><span class="deadnav">Home</span></li> 
 			<li><a href="portfolio.html">Portfolio</a></li> 
 			<li><a href="about.html">About</a></li> 
-            <li><a href="contact.html">Contact</a></li> 
+                        <li><a href="contact.html">Contact</a></li> 
 			<li><a href="links.html">Links</a></li> 
 		</ul>
 	</div>
